@@ -1,3 +1,5 @@
-# 1.0.0
+# 1.0.1
 
-- primeira versão estável da aplicação.
+- correção do arquivo index.html
+- título adicionado
+- estrutura modificada
